@@ -1,6 +1,6 @@
 {
-  "deviceList": [
-    { "deviceID": 1, "timeStamp": "1434360957", "location" : "40.7127281,-74.006015" }
+  "devices": [
+    { "deviceID": "1", "timeStamp": "1434360957", "location" : "40.7127281,-74.006015" }
  
   ],
   "comments": [
